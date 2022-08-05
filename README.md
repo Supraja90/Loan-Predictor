@@ -1,0 +1,2 @@
+streamlit run loan.py
+
